@@ -49,6 +49,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: br.linkedin.com/in/fwuensche
   - title: twitter
     url: http://twitter.com/fwuensche
   - title: facebook
@@ -59,6 +61,8 @@ social:
   #   url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/fwuensche
+  - title: envelope
+    url: mailto:flavinho@wuensche.me
 
 # Postal address (add as many lines as necessary)
 # address:
